@@ -52,7 +52,5 @@ button {
 }
 
 .complete h2 {
-  background: -webkit-linear-gradient(#F3FFBD, #000080);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  text-decoration: line-through;
 }
